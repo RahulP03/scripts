@@ -18,3 +18,6 @@ echo "successfully installed $1"
 
 
 sudo systemctl status $1
+
+
+echo "done"
